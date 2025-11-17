@@ -7,9 +7,9 @@
   𝐒𝐫. 𝐖𝐞𝐛 & 𝐀𝐈 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h1>
 
   <!-- Updated fancy visitor badge -->
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tsrc02140702" width="90" />
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=leowu9" width="90" />
   <p align="center">
-    <a href="https://github.com/tsrc02140702"><img
+    <a href="https://github.com/leowu9"><img
         src="https://readme-typing-svg.herokuapp.com/?lines=Result%20Oriented;Full%20Stack-Developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Righteous&center=true&width=650&height=120&color=00cc99&vCenter=true&size=45%22"></a>
   </p>
 
@@ -24,24 +24,24 @@
   </h1>
 <h1 align="center">𝐒𝐭𝐚𝐭𝐬</h1>
   <p align="center"><img 
-    src="https://github-profile-trophy.vercel.app/?username=tsrc02140702&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=30&no-bg=false" 
+    src="https://github-profile-trophy.vercel.app/?username=leowu9&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=30&no-bg=false" 
     alt="bc-expert" 
     width="100%" /></p>
  <picture style="width: 100%; display: block;">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsrc02140702&theme=react" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=tsrc02140702&show_icons=true&theme=default&border_color=61dafb" />
-        <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api?username=tsrc02140702&show_icons=true&theme=default&border_color=61dafb" alt="tsrc02140702's github stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leowu9&theme=react" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=leowu9&show_icons=true&theme=default&border_color=61dafb" />
+        <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api?username=leowu9&show_icons=true&theme=default&border_color=61dafb" alt="leowu9's github stats" />
       </picture> 
   <div align="left">
     <picture align="left">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsrc02140702&theme=react&utcOffset=-3" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=tsrc02140702&theme=default&border=61dafb" />
-      <img align="right" width=395 src="https://streak-stats.demolab.com/?user=tsrc02140702&theme=default&border=61dafb" alt="tsrc02140702's streak stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leowu9&theme=react&utcOffset=-3" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=leowu9&theme=default&border=61dafb" />
+      <img align="right" width=395 src="https://streak-stats.demolab.com/?user=leowu9&theme=default&border=61dafb" alt="leowu9's streak stats" />
     </picture>
      <picture align="right">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsrc02140702&theme=react" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=tsrc02140702&theme=default&border=61dafb" />
-        <img align="left" width=395 src="https://streak-stats.demolab.com/?user=tsrc02140702&theme=default&border=61dafb" alt="tsrc02140702's streak stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leowu9&theme=react" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=leowu9&theme=default&border=61dafb" />
+        <img align="left" width=395 src="https://streak-stats.demolab.com/?user=leowu9&theme=default&border=61dafb" alt="leowu9's streak stats" />
       </picture>
       
   </div>
@@ -54,9 +54,9 @@
   <!-- contribution graph -->
   <div>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tsrc02140702&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tsrc02140702&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tsrc02140702&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="tsrc02140702's contribution graph" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=leowu9&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=leowu9&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leowu9&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="leowu9's contribution graph" />
     </picture>
   </div>
 </p>
@@ -141,40 +141,40 @@
 <!-- first row -->
 <div width="100%" align="center">
   <!-- repo 1 -->
-  <a align="right" href="https://github.com/tsrc02140702/Vue-UI-Library-ShadCN" title="Vue-UI-Library-ShadCN">
+  <a align="right" href="https://github.com/leowu9/Vue-UI-Library-ShadCN" title="Vue-UI-Library-ShadCN">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tsrc02140702&repo=Vue-UI-Library-ShadCN&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tsrc02140702&repo=Vue-UI-Library-ShadCN=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tsrc02140702&repo=Vue-UI-Library-ShadCN&theme=graywhite&border_radius=10.0" alt="tsrc02140702's repository stats - Vue-UI-Library-ShadCN" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=leowu9&repo=Vue-UI-Library-ShadCN&theme=react&border_color=61dafb&border_radius=10.0" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=leowu9&repo=Vue-UI-Library-ShadCN=graywhite&border_radius=10.0" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=leowu9&repo=Vue-UI-Library-ShadCN&theme=graywhite&border_radius=10.0" alt="leowu9's repository stats - Vue-UI-Library-ShadCN" />
     </picture>
   </a>
 
   <!-- repo 2 -->
-  <a align="left" href="https://github.com/tsrc02140702/Trading-Dashboard-Next" title="Trading-Dashboard-Next">
+  <a align="left" href="https://github.com/leowu9/Trading-Dashboard-Next" title="Trading-Dashboard-Next">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tsrc02140702&repo=Trading-Dashboard-Next&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tsrc02140702&repo=Trading-Dashboard-Next&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tsrc02140702&Trading-Dashboard-Next&theme=graywhite&border_radius=10" alt="tsrc02140702's repository stats - Trading-Dashboard-Next" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=leowu9&repo=Trading-Dashboard-Next&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=leowu9&repo=Trading-Dashboard-Next&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=leowu9&Trading-Dashboard-Next&theme=graywhite&border_radius=10" alt="leowu9's repository stats - Trading-Dashboard-Next" />
     </picture>
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <!-- repo 3 -->
-  <a align="left" href="https://github.com/tsrc02140702/Next-radio-player" title="Next-radio-player">
+  <a align="left" href="https://github.com/leowu9/Next-radio-player" title="Next-radio-player">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tsrc02140702&repo=Next-radio-player&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tsrc02140702&repo=Next-radio-player&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tsrc02140702&repo=Next-radio-player&theme=graywhite&border_radius=10" alt="tsrc02140702's repository stats - MERN Admin Dashboard" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=leowu9&repo=Next-radio-player&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=leowu9&repo=Next-radio-player&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=leowu9&repo=Next-radio-player&theme=graywhite&border_radius=10" alt="leowu9's repository stats - MERN Admin Dashboard" />
     </picture>
   </a>
 
   <!-- repo 4 -->
-  <a align="right" href="https://github.com/tsrc02140702/Event-Decor" title="Event-Decor">
+  <a align="right" href="https://github.com/leowu9/Event-Decor" title="Event-Decor">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tsrc02140702&repo=Event-Decor&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=tsrc02140702&repo=Event-Decor&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tsrc02140702&repo=Event-Decor&theme=graywhite&border_radius=10" alt="tsrc02140702's repository stats - Event-Decor SaaS Landing Page" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=leowu9&repo=Event-Decor&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=leowu9&repo=Event-Decor&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=leowu9&repo=Event-Decor&theme=graywhite&border_radius=10" alt="leowu9's repository stats - Event-Decor SaaS Landing Page" />
     </picture>
   </a>
 </div>
