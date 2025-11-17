@@ -10,7 +10,7 @@
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=leowu9" width="90" />
   <p align="center">
     <a href="https://github.com/leowu9"><img
-        src="https://readme-typing-svg.herokuapp.com/?lines=Result%20Oriented;Full%20Stack-Developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Righteous&center=true&width=650&height=120&color=00cc99&vCenter=true&size=45%22"></a>
+        src="https://readme-typing-svg.herokuapp.com/?lines=Result%20Oriented;Full%20Stack-Developer;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Righteous&center=true&width=650&height=120&color=00cc99&vCenter=true&size=45%22"></a>
   </p>
 
   <h1 align="center">
